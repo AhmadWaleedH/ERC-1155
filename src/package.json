@@ -1,0 +1,28 @@
+{
+  "name": "@0xsequence/erc-1155",
+  "version": "4.0.1",
+  "description": "ERC-1155 implementation for Ethereum",
+  "repository": "https://github.com/0xsequence/erc-1155",
+  "homepage": "https://sequence.build",
+  "license": "Apache-2.0",
+  "main": "adapter/index.js",
+  "types": "adapter/index.d.ts",
+  "scripts": {},
+  "keywords": [
+    "tokens",
+    "collectibles",
+    "ERC1155",
+    "ERC-1155",
+    "fungible",
+    "non-fungible",
+    "semi-fungible",
+    "Ethereum"
+  ],
+  "optionalDependencies": {
+    "@ethersproject/abi": "^5.7.0",
+    "@ethersproject/providers": "^5.7.2",
+    "ethers": "^5.7.2"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
